@@ -1,2 +1,2 @@
 # JavaAdvanced
-Uploading all contest from Java Advanced course
+Contests from Java Advanced course in SoftUni
